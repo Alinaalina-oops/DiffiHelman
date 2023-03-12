@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "DiffiHelmanListener": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
